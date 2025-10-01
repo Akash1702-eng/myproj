@@ -1,0 +1,31 @@
+disease_name,description,precautions,severity
+Acne,"A skin condition that occurs when hair follicles become plugged with oil and dead skin cells.","Wash face gently, avoid oily cosmetics, consult a dermatologist for severe cases.",Moderate
+Eczema,"A condition causing inflamed, itchy, cracked, and rough skin.","Moisturize regularly, avoid irritants, follow prescribed medications.",High
+Psoriasis,"A disease that causes red, itchy scaly patches, most commonly on the knees, elbows, trunk and scalp.","Use prescribed creams, avoid triggers like stress and alcohol, maintain skin hydration.",High
+Rosacea,"A chronic skin condition that causes redness and visible blood vessels in your face.","Avoid sun exposure, use sunscreen, avoid triggers such as spicy foods and alcohol.",Moderate
+Vitiligo,"A disease that causes the loss of skin color in patches.","Use sunscreen to protect affected areas, consider camouflage cosmetics, consult a dermatologist.",Moderate
+Melanoma,"A serious form of skin cancer that develops in the cells that produce melanin.","Avoid excessive sun exposure, use sunscreen, monitor moles and skin changes, consult doctor immediately.",Severe
+Basal Cell Carcinoma,"A type of skin cancer that begins in the basal cells.","Avoid sun exposure, regular skin checks, surgical removal or treatment as advised.",Severe
+Squamous Cell Carcinoma,"A common form of skin cancer that develops in the squamous cells.","Protect skin from sun, monitor for changes, consult dermatologist for biopsy or treatment.",Severe
+Warts,"Small, rough growths caused by a viral infection.","Avoid picking at warts, use over-the-counter treatments, see dermatologist for persistent cases.",Low
+Ringworm,"A fungal infection that causes a ring-shaped rash.","Keep skin dry, use antifungal creams, avoid sharing personal items.",Moderate
+Impetigo,"A highly contagious skin infection that causes red sores.","Maintain hygiene, avoid scratching, use prescribed antibiotics.",Moderate
+Cellulitis,"A bacterial infection of the skin and tissues beneath.","Keep skin clean, monitor for spread, seek antibiotics treatment.",High
+Hives,"Red, itchy welts that result from a skin reaction.","Avoid triggers, use antihistamines, keep skin cool.",Moderate
+Shingles,"A viral infection causing a painful rash.","Consult doctor for antiviral medication, avoid contact with vulnerable individuals, manage pain.",High
+Dermatitis,"Inflammation of the skin causing redness, swelling, and itching.","Avoid irritants, use moisturizers, follow prescribed treatments.",High
+Lupus Skin Rash,"Rash associated with systemic lupus erythematosus, often butterfly-shaped on the face.","Use sunscreen, avoid sun exposure, follow treatment for lupus.",High
+Cold Sores,"Small blisters around the mouth caused by the herpes simplex virus.","Avoid close contact, use antiviral creams, maintain hygiene.",Low
+Molluscum Contagiosum,"A viral infection causing small, firm bumps.","Avoid scratching, keep skin clean, consult dermatologist if persistent.",Low
+Seborrheic Dermatitis,"A condition that causes scaly patches, red skin, and dandruff.","Use medicated shampoos, moisturize affected areas, avoid harsh skin products.",Moderate
+Actinic Keratosis,"A rough, scaly patch on the skin caused by years of sun exposure.","Use sunscreen, monitor for changes, consult doctor for cryotherapy or treatment.",High
+Kaposi Sarcoma,"A cancer that forms in the lining of blood and lymph vessels.","Seek oncologist consultation, manage underlying conditions like HIV, follow treatment plan.",Severe
+Tinea Versicolor,"A fungal infection causing small, discolored patches of skin.","Keep skin dry, use antifungal creams, avoid excessive sweating.",Moderate
+Hand Foot Mouth Disease,"A viral infection causing sores in mouth and rashes on hands and feet.","Maintain hygiene, avoid close contact, manage symptoms with hydration and pain relief.",Moderate
+Cutaneous Lupus,"Chronic autoimmune skin condition causing lesions and scarring.","Avoid sun exposure, follow prescribed treatment, monitor skin changes.",High
+Erythema Multiforme,"A skin reaction that can be triggered by infections or medications.","Avoid triggers, seek medical attention, use prescribed medications.",High
+Bullous Pemphigoid,"An autoimmune skin disease causing large, fluid-filled blisters.","Consult dermatologist, use prescribed immunosuppressive therapy, avoid skin trauma.",High
+
+
+
+
